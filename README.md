@@ -4,7 +4,7 @@ Hi 👋 My name is Chrissy Sarah Roy
 Artificial Intelligence
 -----------------------
 
-Started coding in high school. I completed my Bachelors in Mechanical Engineering and realized during the internship period that I am more inclined towards Artificial Intelligence in Healthcare. Currently pursuing MSc. in Artificial Intelligence at Heriot-Watt University, Dubai. 
+Started coding in high school. I completed my Bachelors in Mechanical Engineering and realized during the internship period that I am more inclined towards Artificial Intelligence in Healthcare. Currently pursuing Masters in Artificial Intelligence at Heriot-Watt University, Dubai. 
 
 * 🌍  I'm based in U.A.E.
 * ✉️  You can contact me at [sarah2roy@gmail.com](mailto:sarah2roy@gmail.com)
