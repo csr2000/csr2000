@@ -10,7 +10,7 @@ About Me
 I'm a student at Heriot-Watt University, Dubai studying Masters in Artificial Intelligence. 
 * 🌍  I'm based in Abu Dhabi
 * ✉️  You can contact me at [sarah2roy@gmail.com](mailto:sarah2roy@gmail.com)
-* 🧠  I'm currently learning AI first Product Leader on Linkedin Learning
+* 🧠  I'm currently revising Machine learning abd Artificial Intelligence Course
 * 🤝  I'm open to collaborating on Artificial Intelligence Projects
 * ⚡  Interests: Anime, Books and Music
 
