@@ -9,7 +9,7 @@ About Me
 
 I'm a student at Heriot-Watt University, Dubai studying Masters in Artificial Intelligence. 
 * 🌍  I'm based in Abu Dhabi
-* ✉️  You can contact me at [sarah2roy@gmail.com](mailto:chrissyroy6@gmail.com)
+* ✉️  You can contact me at [chrissyroy6@gmail.com](mailto:chrissyroy6@gmail.com)
 * 🧠  Currently learning Applied AI in IT Operations. 
 * 🤝  I'm open to collaborating on Artificial Intelligence Projects
 * ⚡  Interests: Anime, Books and Music
