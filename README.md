@@ -10,22 +10,23 @@ About Me
 I'm a student at Heriot-Watt University, Dubai studying Masters in Artificial Intelligence. 
 * 🌍  I'm based in Abu Dhabi
 * ✉️  You can contact me at [chrissyroy6@gmail.com](mailto:chrissyroy6@gmail.com)
-* 🧠  Currently learning Applied AI in IT Operations. 
+* 🧠  Currently learning ML in Healthcare. 
 * 🤝  I'm open to collaborating on Artificial Intelligence Projects
-* ⚡  Interests: Anime, Books and Music
+* ⚡  Interests: Anime, Books, Baking and Music
 
 Goals for 2022
 -------------
 
-* Machine Learning in Healthcare 
-* AI Programming 
-* Big Data and Info Retrieval 
-* AI for Cybersecurity 
-* AI for Marketing 
-* Parallel and Concurrent Programming with C++ 
-* Applied AI for IT Operations 
-* Robotics and Autonomous Systems 
-* Reinforcement Learning
+🔲Machine Learning in Healthcare 
+🔲AI Programming 
+🔲Big Data and Info Retrieval 
+🔲AI for Cybersecurity 
+🔲AI for Marketing 
+🔲Parallel and Concurrent Programming with C++ 
+✅Applied AI for IT Operations 
+🔲Robotics and Autonomous Systems 
+🔲Reinforcement Learning
+🔲Customer Service Using AI and ML
 
 
 
