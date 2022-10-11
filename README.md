@@ -17,16 +17,16 @@ I'm a student at Heriot-Watt University, Dubai studying Masters in Artificial In
 Goals for 2022
 -------------
 
-🔲Machine Learning in Healthcare 
-🔲AI Programming 
-🔲Big Data and Info Retrieval 
-🔲AI for Cybersecurity 
-🔲AI for Marketing 
-🔲Parallel and Concurrent Programming with C++ 
-✅Applied AI for IT Operations 
-🔲Robotics and Autonomous Systems 
-🔲Reinforcement Learning
-🔲Customer Service Using AI and ML
+* 🔲Machine Learning in Healthcare 
+* 🔲AI Programming 
+* 🔲Big Data and Info Retrieval 
+* 🔲AI for Cybersecurity 
+* 🔲AI for Marketing 
+* 🔲Parallel and Concurrent Programming with C++ 
+* ✅Applied AI for IT Operations 
+* 🔲Robotics and Autonomous Systems 
+* 🔲Reinforcement Learning
+* 🔲Customer Service Using AI and ML
 
 
 
