@@ -14,7 +14,7 @@ I'm a student at Heriot-Watt University, Dubai studying Masters in Artificial In
 * 🤝  I'm open to collaborating on Artificial Intelligence Projects
 * ⚡  Interests: Anime, Books, Baking and Music
 
-Goals for 2022
+Goals for 2023
 -------------
 
 * 🔲Machine Learning in Healthcare 
