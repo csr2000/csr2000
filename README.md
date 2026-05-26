@@ -14,19 +14,23 @@ I'm a student at Heriot-Watt University, Dubai studying Masters in Artificial In
 * 🤝  I'm open to collaborating on Artificial Intelligence Projects
 * ⚡  Interests: Anime, Books, Baking and Music
 
-Goals for 2025
+Goals for 2026
 -------------
 
+* ✅Certified Scrum Product Owner (March 2026)
+* 🔲Microsoft Power BI (Revise - May)
+* 🔲PMP (Classes April, June Exam)
+* 🔲My SQL (Revise)
 * 🔲Machine Learning in Healthcare 
 * 🔲AI Programming 
 * 🔲Big Data and Info Retrieval 
 * 🔲AI for Cybersecurity 
 * 🔲AI for Marketing 
 * 🔲Parallel and Concurrent Programming with C++ 
-* ✅Applied AI for IT Operations 
 * 🔲Robotics and Autonomous Systems 
 * 🔲Reinforcement Learning
 * 🔲Customer Service Using AI and ML
+
 
 
 
